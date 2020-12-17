@@ -1,5 +1,5 @@
-function functionWrite(format, ...)  ---> 固定的参数fmt
-return io.write(string.format(format, ...))
+function functionWrite(format, ...)
+    return io.write(string.format(format, ...))
 end
 
 functionWrite("runoob\n")

@@ -28,5 +28,5 @@ print('a:', a, 'b:', b, 'c:', c)
 
 site = {}
 site["key"] = "www.runoob.com"
-print(site["key"])
-print(site.key)
+print('site["key"]:'..site["key"])
+print('site.key:'..site.key)
