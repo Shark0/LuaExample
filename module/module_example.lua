@@ -1,0 +1,5 @@
+module1 = require("module1")
+module2 = require("module2")
+print(module1.constant)
+module1.function2()
+module2.function1()
